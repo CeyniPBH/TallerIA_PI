@@ -22,9 +22,13 @@ Archivo pdf con:
 
 1. GitHub del proyecto
 2. Pantallazo de las películas con la imagen default
-3. Pantallazo de las películas con la imagen generada con la API 
-4. Pantallazo del resultado de la ejecución del archivo check_embeddings_db.py
-5. Pantallazo del resultado de la ejecución del archivo check_rec_sys_db.py
+ ![image](https://github.com/user-attachments/assets/be4795cb-e67b-48a9-a4cc-025096c5bc1d)
+![image](https://github.com/user-attachments/assets/d83c0f4b-b46d-4a79-b0a8-366d2fb0bb0f)
+4. Pantallazo de las películas con la imagen generada con la API.
+![image](https://github.com/user-attachments/assets/0fb3ce1a-3977-4603-9695-7d15dbcaface)
+![image](https://github.com/user-attachments/assets/0c3832c3-639d-4d68-b752-a3c62a0d76c9)
+6. Pantallazo del resultado de la ejecución del archivo check_embeddings_db.py
+7. Pantallazo del resultado de la ejecución del archivo check_rec_sys_db.py
 
 ### Entregable para la semana del 23 de septiembre de 2024
 
